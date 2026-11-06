@@ -1,0 +1,36 @@
+{
+  "id": "pele-neutra",
+  "title": "Pele Neutra",
+  "category": "Beleza",
+  "year": "2024",
+  "publishedAt": "2024-05-10",
+  "description": "Beauty editorial sobre textura, naturalidade e a potência do gesto mínimo. Uma celebração da naturalidade crua e da introspecção. Pele Neutra retira camadas de artifícios cosméticos para evidenciar a verdade dos traços, a maciez do toque e a gola alta em cashmere. Uma declaração visual contra a artificialidade dos filtros contemporâneos.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Retrato macro em preto e branco com mão delicada tocando o rosto",
+      "caption": "A verdade dos traços sob luz difusa natural de estúdio",
+      "type": "fotografia",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Malha de cashmere virgem",
+    "Gola alta em lã merino superfina"
+  ],
+  "techniques": [
+    "Iluminação natural lateral com difusor de seda",
+    "Fotografia macro analógica de alto detalhamento"
+  ],
+  "credits": [
+    { "role": "Direção Criativa", "name": "Larissa Bonfante" },
+    { "role": "Fotografia Macro", "name": "Juliana Pires" },
+    { "role": "Modelo", "name": "Helena Carvalho" },
+    { "role": "Dermatologia & Skin Care", "name": "Dra. Gabriela Fontes" }
+  ],
+  "observations": "Ensaio autoral desenvolvido para o manifesto de beleza limpa 'Intenção e Silêncio'.",
+  "references": "Fotografia de Irving Penn e Richard Avedon; estética do cinema nouvelle vague francês.",
+  "featured": false,
+  "published": true
+}

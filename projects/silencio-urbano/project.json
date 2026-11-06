@@ -1,0 +1,46 @@
+{
+  "id": "silencio-urbano",
+  "title": "Silêncio Urbano",
+  "category": "Editorial",
+  "year": "2025",
+  "publishedAt": "2025-11-20",
+  "description": "Um estudo sobre a solidão contemporânea traduzido em silhuetas monocromáticas e luz natural. Desenvolvido entre as geometrias brutalistas de concreto armado e as sombras alongadas do fim de tarde, Silêncio Urbano investiga a relação entre o corpo humano e a arquitetura monumental. O guarda-roupa monocromático adota alfaiataria rigorosa e lãs pesadas para erguer um refúgio táctil no epicentro da metrópole.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Modelo em sobretudo estruturado diante de monólito de concreto",
+      "caption": "Silhueta em corte reto contrastando com a solidez do concreto armado paulistano",
+      "type": "fotografia",
+      "aspect": "vertical"
+    },
+    {
+      "src": "images/detalhe-01.webp",
+      "alt": "Detalhe de ombreira escultural e luva operística em preto profundo",
+      "caption": "Estudo de proporções angulares e acabamento manual",
+      "type": "detalhe",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Lã fria virgem 120s italiana",
+    "Cashmere cinza carvão",
+    "Couro vegetal encerado"
+  ],
+  "techniques": [
+    "Alfaiataria estrutural desconstruída",
+    "Pesponto oculto à mão",
+    "Lapela geométrica assimétrica"
+  ],
+  "credits": [
+    { "role": "Direção Criativa & Styling", "name": "Larissa Bonfante" },
+    { "role": "Fotografia", "name": "Rafael Menezes" },
+    { "role": "Modelo", "name": "Beatriz Sampaio" },
+    { "role": "Make-up & Hair", "name": "André Farias" },
+    { "role": "Produção Executiva", "name": "Ateliê Bonfante" }
+  ],
+  "observations": "Editorial capa e miolo publicado na edição especial de inverno. Obra integrante da mostra coletiva 'Forma e Cidade'.",
+  "references": "Brutalismo modernista de Lina Bo Bardi e Paulo Mendes da Rocha; fotografia em preto e branco de Peter Lindbergh.",
+  "featured": true,
+  "published": true
+}

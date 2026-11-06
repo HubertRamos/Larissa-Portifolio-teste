@@ -1,0 +1,38 @@
+{
+  "id": "assimetria",
+  "title": "Assimetria",
+  "category": "Editorial",
+  "year": "2024",
+  "publishedAt": "2024-08-18",
+  "description": "Composição assimétrica e cortes precisos para uma narrativa de força e delicadeza. Desafiando a simetria convencional, este ensaio trabalha com volumes assimétricos angulares, decotes pontiagudos e luvas operísticas em diálogo com escadarias de concreto. A harmonia é encontrada na tensão rítmica entre elementos opostos.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Vestido escultural assimétrico com ombreira angular em escadaria de concreto",
+      "caption": "Tensão formal e diálogo entre tecidos esculturais e a brutalidade da pedra",
+      "type": "fotografia",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Crepe encorpado fosco",
+    "Couro napa preto",
+    "Forro de seda habotai"
+  ],
+  "techniques": [
+    "Modelagem plana avançada de ângulo agudo",
+    "Estruturação de ombro em origami têxtil",
+    "Costura interna francesa reforçada"
+  ],
+  "credits": [
+    { "role": "Direção Criativa & Concepção", "name": "Larissa Bonfante" },
+    { "role": "Fotografia", "name": "Thiago Almeida" },
+    { "role": "Modelo", "name": "Clara Meireles" },
+    { "role": "Make-up Minimalista", "name": "Renata Lins" }
+  ],
+  "observations": "Selecionado para o anuário de novos talentos da moda autoral.",
+  "references": "Desconstrucionismo japonês dos anos 1980 (Rei Kawakubo, Yohji Yamamoto); arquitetura desconstrutivista de Zaha Hadid.",
+  "featured": false,
+  "published": true
+}

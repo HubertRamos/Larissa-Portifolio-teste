@@ -1,0 +1,36 @@
+{
+  "id": "nome-do-projeto",
+  "title": "Título do Projeto",
+  "category": "Editorial",
+  "year": "2026",
+  "publishedAt": "2026-01-01",
+  "description": "Descreva aqui o conceito criativo, a inspiração poética, as referências e a narrativa visual do projeto.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Descrição da fotografia para acessibilidade",
+      "caption": "Legenda editorial opcional da imagem",
+      "type": "fotografia",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Lã fria virgem",
+    "Seda pura",
+    "Tafetá estruturado"
+  ],
+  "techniques": [
+    "Alfaiataria desconstruída",
+    "Moulage em ateliê"
+  ],
+  "credits": [
+    { "role": "Direção Criativa", "name": "Larissa Bonfante" },
+    { "role": "Fotografia", "name": "Nome do Fotógrafo" },
+    { "role": "Modelo", "name": "Nome da Modelo" }
+  ],
+  "observations": "Observações sobre veiculação, prêmios ou contexto especial.",
+  "references": "Principais referências artísticas, arquitetônicas ou literárias.",
+  "featured": false,
+  "published": false
+}

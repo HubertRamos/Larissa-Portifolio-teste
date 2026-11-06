@@ -1,0 +1,39 @@
+{
+  "id": "contraluz",
+  "title": "Contraluz",
+  "category": "Campanha",
+  "year": "2024",
+  "publishedAt": "2024-12-05",
+  "description": "Campanha de marca construída no contraste entre contraluz, pele e matéria bruta. Concebida para a coleção outonal da Casa Lumen, a campanha Contraluz substituiu cenários saturados por aberturas monumentais em arco com janelas voltadas para a noite urbana. O halo translúcido de tecidos finos revela a aura feminina sem excessos decorativos.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Silhueta em contraluz diante de arco monumental envidraçado",
+      "caption": "Aura luminosa desenhando as camadas de tule e seda na penumbra",
+      "type": "fotografia",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Tule de seda com corte a fio",
+    "Musselina translúcida italiana",
+    "Cetim duchese encorpado"
+  ],
+  "techniques": [
+    "Sobreposição etérea de transparências",
+    "Acabamento em bainha de lenço feita à mão",
+    "Iluminação em silhueta de alto contraste"
+  ],
+  "credits": [
+    { "role": "Direção Criativa", "name": "Larissa Bonfante" },
+    { "role": "Cliente", "name": "Casa Lumen" },
+    { "role": "Fotografia de Campanha", "name": "Mariana Guimarães" },
+    { "role": "Styling", "name": "Larissa Bonfante & Equipe" },
+    { "role": "Cenografia", "name": "Estúdio Ocre" }
+  ],
+  "observations": "Campanha veiculada em flagship stores nas capitais brasileiras e em catálogo institucional impresso.",
+  "references": "Cinema expressionista alemão; arquitetura de Oscar Niemeyer e Mies van der Rohe.",
+  "featured": true,
+  "published": true
+}

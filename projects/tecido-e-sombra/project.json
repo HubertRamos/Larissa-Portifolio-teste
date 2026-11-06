@@ -1,0 +1,46 @@
+{
+  "id": "tecido-e-sombra",
+  "title": "Tecido & Sombra",
+  "category": "Alta-costura",
+  "year": "2025",
+  "publishedAt": "2025-09-12",
+  "description": "Volumes esculturais e drapeados que exploram o encontro entre o tecido e a luz direcional. Uma monografia fotográfica e editorial inspirada nas dobras da estatuária clássica reinterpretadas pelo modernismo contemporâneo. Tecido & Sombra utiliza tafetá de seda pura, organza estruturada e crepes duplos sob feixes de luz pontual concentrada, onde cada prega se converte em escultura viva.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Vestido escultural em tafetá preto e branco iluminado por feixe de luz",
+      "caption": "Moulage em tafetá de seda pura sob iluminação teatral direcional",
+      "type": "fotografia",
+      "aspect": "vertical"
+    },
+    {
+      "src": "images/detalhe-01.webp",
+      "alt": "Fluidez e transparência de véus em contraluz suave",
+      "caption": "Estudo de transparência e volume em movimento sutil",
+      "type": "detalhe",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Tafetá de seda pura de gramatura pesada",
+    "Organza dublada em algodão egípcio",
+    "Crepe marroquino preto profundo"
+  ],
+  "techniques": [
+    "Moulage tridimensional em manequim de madeira",
+    "Drapeado radial estruturado sem costuras visíveis",
+    "Entretelamento artesanal com crina animal"
+  ],
+  "credits": [
+    { "role": "Direção Criativa", "name": "Larissa Bonfante" },
+    { "role": "Moulage & Concepção", "name": "Atelier Vértice & Larissa Bonfante" },
+    { "role": "Fotografia de Arte", "name": "Lucas Vasconcelos" },
+    { "role": "Modelo", "name": "Valentina Rossi" },
+    { "role": "Cenografia de Luz", "name": "Estúdio Ocre" }
+  ],
+  "observations": "Série comemorativa dos 8 anos de ateliê autoral. Tiragem impressa limitada em papel algodão com encadernação em linho cru.",
+  "references": "Cristóbal Balenciaga nos anos 1950; esculturas de Amilcar de Castro e Richard Serra.",
+  "featured": true,
+  "published": true
+}

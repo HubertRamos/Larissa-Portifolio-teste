@@ -1,0 +1,36 @@
+{
+  "id": "rumor",
+  "title": "Rumor",
+  "category": "Editorial",
+  "year": "2023",
+  "publishedAt": "2023-11-04",
+  "description": "Movimento capturado em frames lentos, transformando o instante em forma. Capturado com velocidade lenta de obturador, Rumor materializa o movimento do vento e a vertigem do giro em uma dança de luz. O vestido de seda ganha vida própria, pairando entre o estado líquido e o ar, como uma pintura a óleo em preto e branco.",
+  "cover": "cover.webp",
+  "images": [
+    {
+      "src": "images/foto-01.webp",
+      "alt": "Bailarina girando com vestido amplo de seda em longa exposição fluida",
+      "caption": "O instante suspenso em desfoque calculado de movimento",
+      "type": "fotografia",
+      "aspect": "vertical"
+    }
+  ],
+  "materials": [
+    "Georgette de seda pura com 14 metros de roda",
+    "Viés de cetim cortado no sentido da trama"
+  ],
+  "techniques": [
+    "Corte em godê duplo com caimento fluido",
+    "Longa exposição fotográfica em velocidade 1/15s"
+  ],
+  "credits": [
+    { "role": "Direção Criativa & Styling", "name": "Larissa Bonfante" },
+    { "role": "Fotografia de Movimento", "name": "Carlos Eduardo Matos" },
+    { "role": "Bailarina & Performer", "name": "Maya Lin" },
+    { "role": "Figurino Autoral", "name": "Larissa Bonfante Studio" }
+  ],
+  "observations": "Finalista do Prêmio Ibero-Americano de Fotografia de Moda e Dança.",
+  "references": "Dança moderna de Pina Bausch e Martha Graham; cronofotografia de Étienne-Jules Marey.",
+  "featured": false,
+  "published": true
+}

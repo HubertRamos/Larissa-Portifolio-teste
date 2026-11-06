@@ -1,0 +1,11 @@
+{
+  "id": "projeto-em-desenvolvimento",
+  "title": "Projeto em Desenvolvimento (Rascunho)",
+  "category": "Editorial",
+  "year": "2026",
+  "publishedAt": "2026-03-01",
+  "description": "Rascunho de trabalho em criação no ateliê. Este projeto tem published: false e NÃO deve aparecer publicamente.",
+  "cover": "cover.webp",
+  "featured": false,
+  "published": false
+}
