@@ -47,7 +47,7 @@ export const siteConfig: SiteConfig = {
   email: "atelier@larissabonfante.com",
   instagram: "@larissabonfante",
   whatsapp: "+55 (11) 98765-4321",
-  heroImage: "/src/assets/images/hero_larissa_editorial_1793965716239.jpg",
+  heroImage: "/src/assets/images/hero",
   aboutImage: "/src/assets/images/about_atelier_studio_1793965716942.jpg",
   stats: [
     { value: "12+", label: "Coleções dirigidas" },
