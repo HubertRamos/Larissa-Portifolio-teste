@@ -35,14 +35,14 @@ export const siteConfig: SiteConfig = {
   signature: "Larissa Bonfante",
   eyebrow: "Portfólio de Moda · Direção Criativa",
   tagline: "Direção criativa e narrativas visuais para a moda. Cada projeto nasce como uma criação artística — com conceito próprio, identidade e um editorial que respira elegância atemporal.",
-  shortBio: "Diretora criativa e pesquisadora visual com base em São Paulo. Desenvolve imagens, editoriais e posicionamento estético para ateliês de alta-costura e marcas autorais em preto e branco.",
+  shortBio: "Diretora criativa e pesquisadora visual com base em Arapongas · PR. Desenvolve imagens, editoriais e posicionamento estético para ateliês de alta-costura e marcas autorais em preto e branco.",
   fullBio: [
-    "Sou Larissa Bonfante, diretora criativa de moda com base em São Paulo. Construo imagens que tratam cada coleção, editorial ou campanha de marca como uma obra com conceito, identidade e narrativa próprios.",
+    "Sou Larissa Bonfante, diretora criativa de moda com base em Arapongas · PR. Construo imagens que tratam cada coleção, editorial ou campanha de marca como uma obra com conceito, identidade e narrativa próprios.",
     "Meu trabalho une a elegância táctil de uma publicação de luxo impressa à fluidez da experiência contemporânea — com espaço, contraste e intenção em cada escolha de corte, tecido e silhueta.",
     "Ao longo de 8 anos de ateliê autoral, desenvolvi uma linguagem reconhecível fundamentada na fotografia monocromática, no rigor da alfaiataria e no diálogo íntimo com a luz natural e a arquitetura."
   ],
-  atelierLocation: "São Paulo · Brasil",
-  atelierAddress: "Jardins · São Paulo · Brasil",
+  atelierLocation: "Arapongas · Paraná",
+  atelierAddress: "Arapongas · Paraná · Brasil",
   workingHours: "Segunda a sexta, 9h às 18h",
   email: "atelier@larissabonfante.com",
   instagram: "@larissabonfante",
